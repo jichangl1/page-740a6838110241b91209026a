@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.pigqx.cn/sitemap.xml
